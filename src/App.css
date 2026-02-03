@@ -1,0 +1,15 @@
+.button {
+  border: none;
+  padding: 5px 10px;
+  font-family: sans-serif;
+  font-size: 18px;
+  width: 100%;
+  margin: 100px auto; 
+  background-color: rgb(39, 72, 116);;
+  color: white;
+  border-radius: 8px;
+}
+
+.button:active {
+  opacity: 0.8;
+}
